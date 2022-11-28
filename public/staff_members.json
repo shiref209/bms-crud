@@ -1,0 +1,68 @@
+[
+  {
+    "arrival_time": null,
+    "birth_date": "1994-11-11",
+    "fired": 0,
+    "leaving_time": "22:00",
+    "name": "Basma Othman",
+    "phone": "01000210498",
+    "role": "Receptionist",
+    "salary": 2000,
+    "started_date": "2021-10"
+  },
+  {
+    "arrival_time": null,
+    "birth_date": "2000-10-03",
+    "fired": 0,
+    "leaving_time": "22:00",
+    "name": "Dina Hanafy",
+    "phone": "01004131996",
+    "role": "Assistant",
+    "salary": 1400,
+    "started_date": "2022-01"
+  },
+  {
+    "arrival_time": null,
+    "birth_date": "2000-07-11",
+    "fired": 0,
+    "leaving_time": "22:00",
+    "name": "Nourhan Mohamed",
+    "phone": "01124119872",
+    "role": "Marketing and Financial Manger",
+    "salary": 1400,
+    "started_date": "2022-01"
+  },
+  {
+    "arrival_time": null,
+    "birth_date": "2005-10-04",
+    "fired": 0,
+    "leaving_time": "22:00",
+    "name": "Basmala Ammar",
+    "phone": "01141143110",
+    "role": "Cleaning Assistant",
+    "salary": 1400,
+    "started_date": "2021-07"
+  },
+  {
+    "arrival_time": null,
+    "birth_date": "2002-09-20",
+    "fired": 0,
+    "leaving_time": "22:00",
+    "name": "Asmaa Emam",
+    "phone": "010293325447",
+    "role": "Cleaning Assistant",
+    "salary": 1400,
+    "started_date": "2021-11"
+  },
+  {
+    "arrival_time": null,
+    "birth_date": "2004-03-17",
+    "fired": 0,
+    "leaving_time": "22:00",
+    "name": "Aya Saber",
+    "phone": "01207219526",
+    "role": "Cleaning Assistant",
+    "salary": 1400,
+    "started_date": "2022-04"
+  }
+]
